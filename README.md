@@ -14,5 +14,7 @@
 
 ```sh\
 I study information technology because I want to be a coder. 
+I'm a junior student at Information Technology University. I'm currently studying Computer Science. 
+Thanks for watching!!!
 ```\
 }
